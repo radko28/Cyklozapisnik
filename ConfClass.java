@@ -4,7 +4,7 @@ import java.io.*;
 public class ConfClass {
         public static String DBSERVER = "jdbc:mysql://localhost/team";
         public static String USERID = "radko28";
-        public static String PASSWORD = "agatha";
+        public static String PASSWORD = "";
         public static String LOOK = "metal";
         
         public ConfClass(String file) {
